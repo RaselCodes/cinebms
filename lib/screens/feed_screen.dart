@@ -40,7 +40,7 @@ class _FeedScreenState extends State<FeedScreen> {
               title: Text(
                   "Logged in as " + _nameOfUser,
                 style: const TextStyle(
-                  fontSize: 15.0
+                  fontSize: 15.0,
                 ),
               ),
               actions: <Widget>[
